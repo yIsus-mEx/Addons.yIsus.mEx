@@ -720,11 +720,11 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/anime/logos/anime_x_ano.png",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/anime/logos/anime_x_ano_v2.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/anime/tarjetas/anime_x_ano.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/anime/fondos/anime_x_ano.jpg"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/anime/fondos/peliculas_de_anime_v2.jpg"
       }
     ],
     "pinToTop": true,
