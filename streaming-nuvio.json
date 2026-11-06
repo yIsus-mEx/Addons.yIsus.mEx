@@ -1757,11 +1757,11 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": null,
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/logos/claro_video.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/tarjetas/claro_video.gif",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": null
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/fondos/paramount_plus_v2.jpg"
       },
       {
         "id": "folder-EF2D21CA",
@@ -1977,11 +1977,11 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": null,
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/logos/vix.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/tarjetas/vix.gif",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": null
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/fondos/vix_v2.jpg"
       },
       {
         "id": "folder-C1BAC2DB",
@@ -2197,11 +2197,11 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": null,
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/logos/tubi.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/tarjetas/tubi.gif",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": null
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/fondos/tubi_v2.jpg"
       },
       {
         "id": "folder-DD008B2D",
@@ -2212,11 +2212,11 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": null,
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/logos/mercado_play.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/tarjetas/mercado_play.gif",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": null
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/yIsus-mEx/Addons.yIsus.mEx@main/streaming/fondos/prime_video_v2.jpg"
       }
     ],
     "pinToTop": true,
