@@ -1,0 +1,11 @@
+{
+  "metas": [
+    {
+      "id": "fam-001",
+      "type": "movie",
+      "name": "Video de prueba",
+      "poster": "https://raw.githubusercontent.com/yIsus-mEx/Addons.yIsus.mEx/main/familia/img/fam-001.jpg",
+      "posterShape": "poster"
+    }
+  ]
+}
