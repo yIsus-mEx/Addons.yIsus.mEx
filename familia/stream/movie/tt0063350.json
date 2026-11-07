@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Videos Familiares",
+      "title": "Prueba de conexión con TMDB\nPixeldrain",
+      "url": "https://pixeldrain.com/api/file/4cu2xCq4"
+    }
+  ]
+}

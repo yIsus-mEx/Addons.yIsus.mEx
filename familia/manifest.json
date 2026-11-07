@@ -1,18 +1,37 @@
 {
   "id": "com.yisus.videosfamiliares",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "Videos Familiares",
   "description": "Videos de la familia alojados en Pixeldrain",
   "resources": [
-    "catalog",
-    "meta",
-    "stream"
+    {
+      "name": "catalog",
+      "types": [
+        "movie"
+      ]
+    },
+    {
+      "name": "meta",
+      "types": [
+        "movie"
+      ],
+      "idPrefixes": [
+        "fam"
+      ]
+    },
+    {
+      "name": "stream",
+      "types": [
+        "movie"
+      ],
+      "idPrefixes": [
+        "fam",
+        "tt"
+      ]
+    }
   ],
   "types": [
     "movie"
-  ],
-  "idPrefixes": [
-    "fam"
   ],
   "catalogs": [
     {
