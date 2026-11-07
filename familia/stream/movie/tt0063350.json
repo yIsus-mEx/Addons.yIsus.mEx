@@ -1,9 +1,10 @@
 {
   "streams": [
     {
-      "name": "Videos Familiares",
-      "title": "Prueba de conexión con TMDB\nPixeldrain",
-      "url": "https://pixeldrain.com/api/file/4cu2xCq4"
+      "name": "T3mPL4ri0s\n1080p",
+      "title": "Night of the Living Dead [1968][1080p.x264.WEB-DL]\n💾 3.9 GB  ⚙ Pixeldrain  ⏱ 24:39\n🔊 Latino / Japonés · AAC\n💬 Subtítulos integrados",
+      "url": "https://pixeldrain.com/api/file/4cu2xCq4",
+      "behaviorHints": { "filename": "Mi Video.mkv", "videoSize": 1288490188 }
     }
   ]
 }
