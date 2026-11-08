@@ -1,0 +1,20 @@
+{
+  "id": "com.yisus.streams",
+  "version": "1.0.0",
+  "name": "T3mPL4ri0s",
+  "description": "Addon solo de streams (sin catálogo ni fichas)",
+  "resources": 
+  [
+    "stream"
+  ],
+  "types": 
+  [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": 
+  [
+    "tt"
+  ],
+  "catalogs": []
+}
