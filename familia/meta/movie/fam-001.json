@@ -3,10 +3,10 @@
     "id": "fam-001",
     "type": "movie",
     "name": "Dragon Ball Z",
-    "poster": "https://raw.githubusercontent.com/yIsus-mEx/Addons.yIsus.mEx/main/familia/img/fam-001.jpg",
+    "poster": "",
     "posterShape": "poster",
-    "background": "https://raw.githubusercontent.com/yIsus-mEx/Addons.yIsus.mEx/main/familia/img/fam-001.jpg",
-    "description": "Primer video para probar el addon.",
-    "releaseInfo": "2026"
+    "background": "https://image.tmdb.org/t/p/original/AtAeN6ut8xN5N8kxAuhJpNY7CiJ.jpg",
+    "description": "Narra la historia de Goku, un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa. Sin saber nada de su pasado, un anciano lo cuidó como su nieto hasta los ocho años. Después de morir su abuelo, Goku accede a la Kame House, lugar donde un estrambótico anciano le convertirá en un campeón de artes marciales. Conocerá por el camino a Bulma, una muchacha obsesionada con algo denominado las Bolas de Dragón, y Krilin, su compañero de aventuras, entre otros.",
+    "releaseInfo": "1986"
   }
 }
