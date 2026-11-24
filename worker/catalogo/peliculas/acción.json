@@ -1,0 +1,43 @@
+{
+  "nombre": "Acción",
+  "orden": 1,
+  "peliculas": [
+    {
+      "id": "tt38672588",
+      "nombre": "Masterplan",
+      "anio": 2026,
+      "streams": [
+        {
+          "url": "https://cdn.pixeldrain.eu.cc/vmjNeHKw",
+          "calidad": "1080p",
+          "codec": "H.264",
+          "tamano": "7.9 GB",
+          "duracion": "",
+          "audios": 
+          [
+            "Lat",
+            "Eng"
+          ],
+          "subs": 
+          [
+            "Lat",
+            "Eng"
+          ],
+          "servidor": "Pixeldrain"
+        }
+      ]
+    },
+    {
+      "id": "tt0013442",
+      "nombre": "Nosferatu",
+      "anio": 1922,
+      "streams": []
+    },
+    {
+      "id": "tt0055830",
+      "nombre": "Carnival of Souls",
+      "anio": 1962,
+      "streams": []
+    }
+  ]
+}

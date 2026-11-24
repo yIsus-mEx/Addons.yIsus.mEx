@@ -1,0 +1,10 @@
+{
+  "name": "t3mpl4ri0s",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "indice": "node scripts/generar-indice.mjs",
+    "revisar": "node scripts/revisar.mjs",
+    "deploy": "npm run indice && npm run revisar && npx wrangler deploy"
+  }
+}

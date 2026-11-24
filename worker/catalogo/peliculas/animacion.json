@@ -1,0 +1,24 @@
+{
+  "nombre": "Animación",
+  "orden": 5,
+  "peliculas": [
+    {
+      "id": "tt0807840",
+      "nombre": "Elephants Dream",
+      "anio": 2006,
+      "streams": []
+    },
+    {
+      "id": "tt1254207",
+      "nombre": "Big Buck Bunny",
+      "anio": 2008,
+      "streams": []
+    },
+    {
+      "id": "tt1727587",
+      "nombre": "Sintel",
+      "anio": 2010,
+      "streams": []
+    }
+  ]
+}

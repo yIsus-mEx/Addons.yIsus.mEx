@@ -1,0 +1,18 @@
+{
+  "nombre": "Ciencia ficción",
+  "orden": 4,
+  "peliculas": [
+    {
+      "id": "tt0052077",
+      "nombre": "Plan 9 from Outer Space",
+      "anio": 1957,
+      "streams": []
+    },
+    {
+      "id": "tt2285752",
+      "nombre": "Tears of Steel",
+      "anio": 2012,
+      "streams": []
+    }
+  ]
+}

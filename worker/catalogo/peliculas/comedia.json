@@ -1,0 +1,36 @@
+{
+  "nombre": "Comedia",
+  "orden": 2,
+  "peliculas": [
+    {
+      "id": "tt0054033",
+      "nombre": "The Little Shop of Horrors",
+      "anio": 1960,
+      "streams": []
+    },
+    {
+      "id": "tt0012349",
+      "nombre": "The Kid",
+      "anio": 1921,
+      "streams": []
+    },
+    {
+      "id": "tt0015324",
+      "nombre": "Sherlock Jr.",
+      "anio": 1924,
+      "streams": []
+    },
+    {
+      "id": "tt0017925",
+      "nombre": "The General",
+      "anio": 1926,
+      "streams": []
+    },
+    {
+      "id": "tt0032599",
+      "nombre": "His Girl Friday",
+      "anio": 1940,
+      "streams": []
+    }
+  ]
+}

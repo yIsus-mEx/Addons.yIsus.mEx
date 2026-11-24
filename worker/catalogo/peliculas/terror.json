@@ -1,0 +1,40 @@
+{
+  "nombre": "Terror",
+  "orden": 1,
+  "peliculas": [
+    {
+      "id": "tt0063350",
+      "nombre": "Night of the Living Dead",
+      "anio": 1968,
+      "streams": [
+        {
+          "url": "https://pixeldrain.com/api/file/4cu2xCq4",
+          "calidad": "1080p",
+          "codec": "H.264",
+          "tamano": "3.9 GB",
+          "duracion": "24:39",
+          "audios": [
+            "Latino",
+            "English"
+          ],
+          "subs": [
+            "Español"
+          ],
+          "servidor": "Pixeldrain"
+        }
+      ]
+    },
+    {
+      "id": "tt0013442",
+      "nombre": "Nosferatu",
+      "anio": 1922,
+      "streams": []
+    },
+    {
+      "id": "tt0055830",
+      "nombre": "Carnival of Souls",
+      "anio": 1962,
+      "streams": []
+    }
+  ]
+}

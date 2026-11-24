@@ -1,0 +1,4 @@
+name = "t3mpl4ri0s"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+preview_urls = false

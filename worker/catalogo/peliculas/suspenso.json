@@ -1,0 +1,24 @@
+{
+  "nombre": "Suspenso",
+  "orden": 3,
+  "peliculas": [
+    {
+      "id": "tt0057163",
+      "nombre": "Charade",
+      "anio": 1963,
+      "streams": []
+    },
+    {
+      "id": "tt0037638",
+      "nombre": "Detour",
+      "anio": 1945,
+      "streams": []
+    },
+    {
+      "id": "tt0042369",
+      "nombre": "D.O.A.",
+      "anio": 1950,
+      "streams": []
+    }
+  ]
+}
